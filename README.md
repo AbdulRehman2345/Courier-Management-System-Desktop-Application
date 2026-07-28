@@ -74,9 +74,6 @@ git clone https://github.com/AbdulRehman2345/Courier-Management-System-Desktop-A
 
 Open `FastR CMS/FastR CMS.sln` in Visual Studio, restore the NuGet packages, set up a local MySQL database named `fastr_db`, and run the application.
 
-## Project Report
-
-The full project report is included in this repository for reference — see the linked document for detailed objectives, design decisions, and analysis.
 
 ## Purpose
 
